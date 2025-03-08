@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.27.4-alpine
+    created: "2025-03-08T20:48:22.085796869Z"
+    description: A Helm chart for Kubernetes
+    digest: 828b7b0e176c75da8ca3a19a5bc7b3eb7aee8707d74daa0cad03855392824676
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/sordfish/nginx-helm-chart/releases/download/nginx-0.1.0/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-08T20:48:22.085803381Z"
